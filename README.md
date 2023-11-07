@@ -12,7 +12,7 @@ Thanks to being able to work a little bit harder and speeding up the process a b
 | Language | Experience |
 | :---- | ----: |
 | C# | 1 year |
-| HTML | 1,5 years |
-| CSS | 1,5 years |
+| HTML | 2 years |
+| CSS | 2 years |
 | PHP | 1 year | 
-| Javascript | 2 months | 
+| Javascript | less than a year | 
