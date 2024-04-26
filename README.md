@@ -9,13 +9,11 @@ Thanks to being able to work a little bit harder and speeding up the process a b
 ৹ I live in Hoofddorp, The Netherlands.<br>
 ৹ My hobbies are gaming, writing, programming, reading, drawing and listening to music. <br><br>
 
-| Language | Experience |
+| Language / Framework | Experience |
 | :---- | ----: |
 | C# | 1,5 years |
 | HTML | 2,5 years |
 | CSS | 2,5 years |
 | PHP | 1 year | 
 | Javascript | less than a year | 
-| Framework | Experience |
-| :---- | ----: |
 | Blazor | 1 month |
